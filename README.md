@@ -1,4 +1,4 @@
-# Tribute Page for Kyojuro
+# [Tribute Page for Kyojuro](https://kyojurorengoku.netlify.app/)
 
 ![thumbnail](./github-images/thumbnail.png)
 
