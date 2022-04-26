@@ -5,7 +5,7 @@
 ## Description
 
 This is a single-page html/css website.
-It is the first of five web design projects from Free Code Camp's Responsive Web Design course. This course emphasizes the use of semantic html tags for the sake of accessibility.
+It is the first of five web design projects from Free Code Camp's Responsive Web Design course. This course emphasizes the use of semantic html tags for the sake of accessibility. As such, I made sure to include a header, main, and footer tag, as well as to include the alt attribute for my images, etc.
 
 ## Subject Matter
 
