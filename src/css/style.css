@@ -76,25 +76,36 @@ main {
   margin-bottom: 5rem;
 }
 
-#tribute-info {
+main #tribute-info {
   max-width: 1000px;
   margin: auto 5%;
 }
 
-#tribute-link {
-  color: cyan;
-}
-
 footer {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #222;
   padding: 2rem 0;
 }
 
+footer #tribute-link {
+  margin-bottom: 1rem;
+}
+
+footer a {
+  color: rgb(81, 207, 207);
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
 @media (min-width: 1080px) {
   #tribute-info {
-    margin: auto;
+    margin: auto !important;
   }
 }
